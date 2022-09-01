@@ -1,0 +1,45 @@
+# Redis Stack
+## Extends Redis with modern data models and processing engines. Includes documentation for the bundled Redis modules and RedisInsight.
+
+
+Redis Stack is an extension of Redis that adds modern data models and processing engines to provide a complete developer experience.
+
+In addition to all of the features of OSS Redis, Redis Stack supports:
+
+* Queryable JSON documents
+* Full-text search
+* Time series data (ingestion & querying)
+* Graph data models with the Cypher query language
+* Probabilistic data structures
+
+## Getting started
+
+To get started with Redis Stack, see the [Getting Started](https://redis.io/docs/stack/get-started/) guide. You may also want to:
+
+* [Install Redis Stack](https://redis.io/docs/stack/get-started/install/)
+* [See the list of clients supporting Redis Stack](https://redis.io/docs/stack/get-started/clients/)
+* [View the Redis Stack tutorials](https://redis.io/docs/stack/get-started/tutorials/)
+
+If you want to learn more about the vision for Redis Stack, read on.
+
+## Why Redis Stack?
+
+Redis Stack was created to allow developers to build real-time applications with a backend data platform that can reliably process requests in under a millisecond. Redis Stack does this by extending Redis with modern data models and data processing tools (Document, Graph, Search, and Time Series).
+
+Redis Stack unifies and simplifies the developer experience of the leading Redis modules and the capabilities they provide. Redis Stack bundles five Redis modules: [RedisJSON](https://redis.io/docs/stack/json), [RediSearch](https://redis.io/docs/stack/search), [RedisGraph](https://redis.io/docs/stack/graph), [RedisTimeSeries](https://redis.io/docs/stack/timeseries), and [RedisBloom](https://redis.io/docs/stack/bloom).
+
+### Clients
+
+Several Redis client libraries support Redis Stack. These include redis-py, node_redis, and Jedis. In addition, four higher-level object mapping libraries also support Redis Stack: Redis OM .NET, Redis OM Node, Redis OM Python, Redis OM Spring.
+
+### RedisInsight
+
+Redis Stack also includes RedisInsight, a visualization tool for understanding and optimizing Redis data.
+
+## Redis Stack license
+
+Redis Stack is made up of several components, licensed as follows:
+
+* Redis Stack Server, which combines open source Redis with RediSearch, RedisJSON, RedisGraph, RedisTimeSeries, and RedisBloom, is licensed under the [Redis Source Available License](https://github.com/RediSearch/RediSearch/blob/master/LICENSE) (RSAL).
+
+* RedisInsight is licensed under the [Server Side Public License](https://en.wikipedia.org/wiki/Server_Side_Public_License) (SSPL).
