@@ -25,7 +25,7 @@ If you want to learn more about the vision for Redis Stack, read on.
 
 Redis Stack was created to allow developers to build real-time applications with a backend data platform that can reliably process requests in under a millisecond. Redis Stack does this by extending Redis with modern data models and data processing tools (Document, Search, and Time Series).
 
-Redis Stack unifies and simplifies the developer experience of the leading Redis modules and the capabilities they provide. Redis Stack bundles five Redis modules: [RedisJSON](https://redis.io/docs/latest/develop/data-types/json/), [RediSearch](https://redis.io/docs/latest/develop/interact/search-and-query/), [RedisTimeSeries](https://redis.io/docs/latest/develop/data-types/timeseries/), and [RedisBloom](https://redis.io/docs/latest/develop/data-types/probabilistic/).
+Redis Stack unifies and simplifies the developer experience of the leading Redis modules and the capabilities they provide. Redis Stack bundles four Redis modules: [RedisJSON](https://redis.io/docs/latest/develop/data-types/json/), [RediSearch](https://redis.io/docs/latest/develop/interact/search-and-query/), [RedisTimeSeries](https://redis.io/docs/latest/develop/data-types/timeseries/), and [RedisBloom](https://redis.io/docs/latest/develop/data-types/probabilistic/).
 
 ### Clients
 
