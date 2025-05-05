@@ -1,6 +1,16 @@
 # Redis Stack
-## Extends Redis with modern data models and processing engines. Includes documentation for the bundled Redis modules and RedisInsight.
 
+> [!NOTE]
+> Redis Stack users should upgrade to [Redis](https://github.com/redis/redis). New users should use [Redis](https://github.com/redis/redis) instead of Redis Stack.
+>
+> Starting with Redis 8, we are combining our Redis Stack and community offerings into a single Redis Open Source distribution.
+> All Redis Stack modules are included in Redis Open Source.
+>
+> We will stop releasing maintainance releases of Redis Stack (6.2, 7.2, and 7.4) on December 2025.
+>
+> See https://github.com/redis/redis
+
+## Extends Redis with modern data models and processing engines. Includes documentation for the bundled Redis modules and RedisInsight.
 
 Redis Stack is an extension of Redis that adds modern data models and processing engines to provide a complete developer experience.
 
