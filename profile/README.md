@@ -6,7 +6,7 @@
 > Starting with Redis 8, we are combining our Redis Stack and community offerings into a single Redis Open Source distribution.
 > All Redis Stack modules are included in Redis Open Source.
 >
-> We will stop releasing maintainance releases of Redis Stack (6.2, 7.2, and 7.4) on December 2025.
+> We stopped releasing maintenance updates for Redis Stack (6.2, 7.2, and 7.4) in December 2025.
 >
 > See https://github.com/redis/redis
 
